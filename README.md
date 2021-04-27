@@ -21,7 +21,7 @@ Datasets from three different studies:
 
 ## Flu vaccination response data
 
-  There are two datasets from a flu vaccination study. One includes gene expression data for one cohort across time. The other contains immune response data for two cohorts across time. In this study, participants were vaccinated with a flu shot, and researchers took blood samples across different timepoints. This is from SDY1276 in ImmuneSpace (https://www.immunespace.org/project/Studies/SDY1276/begin.view?) and is in tthis publication: https://pubmed.ncbi.nlm.nih.gov/21357945/
+  There are two datasets from a flu vaccination study. One includes gene expression data for one cohort across time. The other contains immune response data for two cohorts across time. In this study, participants were vaccinated with a flu shot, and researchers took blood samples across different timepoints. This is from SDY1276 in ImmuneSpace (https://www.immunespace.org/project/Studies/SDY1276/begin.view?) and is in this publication: https://pubmed.ncbi.nlm.nih.gov/21357945/
   
   1. `flu_vaccination_gene_expression.csv` 
   
@@ -29,8 +29,8 @@ Datasets from three different studies:
       
         
   2. `flu_vaccination_hai.csv`
-    
-    This file contians immune response data from the HAI assay. HAI tests how well a sample will bind to a virus, and can give you an idea of how well the patient's immune system is responding to the vaccine. Higher numbers correspond to a stronger response. 
+
+  This file contians immune response data from the HAI assay. HAI tests how well a sample will bind to a virus, and can give you an idea of how well the patient's immune system is responding to the vaccine. Higher numbers correspond to a stronger response. 
     
     
     
