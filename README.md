@@ -1,4 +1,4 @@
-# Datasets for Girl's Who Code visualization
+# Datasets for Girls Who Code visualization
 
 Datasets from three different studies: 
 
