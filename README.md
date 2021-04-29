@@ -4,7 +4,7 @@ Datasets from three different studies:
 
 ## Demo data
 
-`clinical.csv`
+`clinical.csv` and `smoke_complete.csv`
 
 ## COVID-19 immunological data
 
